@@ -1,0 +1,7 @@
+You can change the data folder path in Demo.java <line: 31>. 
+
+Please compile and run the project under src folder with following commands:
+
+javac Demo/Demo.java IO/Input.java IO/Output.java algorithm/ve.java entity/Variable.java entity/Evidence.java entity/CPT.java  
+
+java Demo/Demo
